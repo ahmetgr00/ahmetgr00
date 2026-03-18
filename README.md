@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi 👋, I'm Ahmet
 
-<!--
-**ahmetgr00/ahmetgr00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 That's me
+I am currently a software engineering student and looking forward to be involved in big-scale projects.
+I have been working hard to become a professional dev for 3 years.
+Developing projects by myself and strive to get better and better every single day.
+I've got also experience with some frontend technologies. Currently engaged with python mostly, and also javascript.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on backend development.
+- 🌱 I’m currently learning flask & django.
+- 💬 Ask me about everything you want as long as you are kind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
