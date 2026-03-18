@@ -8,6 +8,6 @@ I've got also experience with some frontend technologies. Currently engaged with
 
 - 🔭 I’m currently working on backend development.
 - 🌱 I’m currently learning flask & django.
-- 💬 Ask me about everything you want as long as you are kind
+- 💬 Ask me about everything you want as long as you are kind.
 
 
